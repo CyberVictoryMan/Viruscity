@@ -4,7 +4,7 @@
   "description": "This is a project made by S.Vijay and Sudarshan",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/CyberVictoryMan/Viruscity/issues"
   },
-  "homepage": "https://github.com/CyberVictoryMan/Viruscity#readme"
+  "homepage": "https://github.com/CyberVictoryMan/Viruscity#readme",
+  "dependencies": {
+    "electron": "^17.0.0",
+    "install": "^0.13.0",
+    "npm": "^8.5.0"
+  }
 }
