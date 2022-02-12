@@ -1,0 +1,19 @@
+{
+  "name": "viruscity",
+  "version": "1.0.0",
+  "description": "This is a project made by S.Vijay and Sudarshan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CyberVictoryMan/Viruscity.git"
+  },
+  "author": "VijayAnand and Sudarshan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CyberVictoryMan/Viruscity/issues"
+  },
+  "homepage": "https://github.com/CyberVictoryMan/Viruscity#readme"
+}
