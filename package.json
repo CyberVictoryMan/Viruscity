@@ -19,6 +19,6 @@
   "dependencies": {
     "electron": "^17.0.0",
     "install": "^0.13.0",
-    "npm": "^8.5.0"
+    "npm": "^8.11.0"
   }
 }
